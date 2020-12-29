@@ -1,0 +1,4 @@
+To access data files, please visit the links below to download:
+
+Bikeshare Stations - https://drive.google.com/file/d/1oVUFwHeTFfW2hbA9n1RT_Tabw95sJrUs/view?usp=sharing
+Cyclist Trip Data - https://drive.google.com/file/d/1h_2CuIsjjUqEdPUSIaIguDTvpNGer9LD/view?usp=sharing
